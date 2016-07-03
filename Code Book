@@ -1,5 +1,5 @@
 Code Book
-This code book summarizes the resulting data fields in tidy_Dataset.txt.
+This code book summarizes the resulting data fields in tidy_Dataset.txt of the R script run_analysis.R.
 The tidy data set contains 180 records and 68 variables (measurements) corresponding to 30 subjects and 6 types of activities:
 Subject - The ID of the test subject who performed the activity
 Activity - The type of activity performed and the corresponding measurements were taken including: 
