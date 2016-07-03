@@ -8,4 +8,4 @@
 
 The UCI HAR Dataset zip file is downloaded from the provided URL: "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" and unzip to local "data" directory.
 Package "plyr" is installed and plyr library is loaded and used.
-The dimension of the resulted tidy data set is 180 rows and 68 columns. The first two columns are Subject and Activity respectively and the rest of 66 columns are the average of mean values and standard deviation values.
+The dimension of the resulted tidy data set (tidy_Dataset.txt) is 180 rows and 68 columns. The first two columns are Subject and Activity and the rest of 66 columns are the average of mean values and standard deviation values.
